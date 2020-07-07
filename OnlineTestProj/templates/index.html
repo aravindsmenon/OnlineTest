@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div class="container">
+<form method="post" id="refrm">
+    {% csrf_token %}
+   {{file}}<br>
+    {{path}}<br>
+    {{size}}<br>
+    {{ext}}
+</form>
+</div>
+</body>
+</html>
