@@ -3,8 +3,4 @@ hello
 abc
 xyz
 
-addd
-abcd
-fhssu
-
 
